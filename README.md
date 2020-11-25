@@ -1,5 +1,5 @@
 # selenium_tests
-Selenium tests for https://github.com/SunInJuly/SunInJuly.github.io pages    
+Тесты для веб-страниц проекта https://github.com/SunInJuly/SunInJuly.github.io        
 Для запуска тестов потребуется установленная версия Python (не менее 3.7.3) и Selenium (3.14.0)
 
 ```
