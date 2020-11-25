@@ -1,1 +1,1 @@
-123
+We need this file only to succeed int 2-2_7 test
